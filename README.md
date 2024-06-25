@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rmmairura
-- 👀 I’m interested in Computer Science or Computer Engineering
-- 🌱 I’m currently learning various programming languages
+- 👀 I’m interested in Computer Science 
+- 🌱 I’m currently learning various programming languages: Python,  Java, JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: she/her
